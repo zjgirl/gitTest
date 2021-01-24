@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class DemoApplication {
 
-    // this is for prod config
+    // this is for dev config
     public static void main(String[] args) {
         SpringApplication.run(DemoApplication.class, args);
     }
