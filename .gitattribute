@@ -1,2 +1,2 @@
-src/main/resources/application.properties merge=ours
-src/main/java/com/example/demo/DemoApplication.java merge=ours
+src/main/resources/application.properties merge = ours
+src/main/java/com/example/demo/DemoApplication.java merge = ours
